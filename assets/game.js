@@ -174,8 +174,6 @@ $("button").on("click", function(){
 		}
 
 
-		
-
 		$("#userHpTally").html("<p>" + user.hp + "</p>");
 		$("#compHpTally").html("<p>" + comp.hp + "</p>");
 
