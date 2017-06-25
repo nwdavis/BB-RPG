@@ -18,10 +18,10 @@ h2 {
 	margin-bottom: 100px;
 }
 
-#userChar {
-	border: 1px solid red;
+#userHpTally {
+	font-size: 25px;
 }
 
-#compChar {
-	border: 1px solid red;
+#compHpTally {
+	font-size: 25px;
 }
